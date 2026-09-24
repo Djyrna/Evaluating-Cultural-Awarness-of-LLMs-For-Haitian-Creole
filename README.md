@@ -8,7 +8,7 @@ For languages with millions of speakers, such as Haitian Creole, this represents
 Large language models (LLMs) exhibit substantial performance disparities between high and low-resource languages.
 Beyond lower task performance, they often fail to capture the cultural norms and values of underrepresented communities, 
 raising concerns about their equitable deployment. 
-In this repository, we present the dataset, code and evaluation results of the work ### Evaluating cultural awareness in LLMs for Haitian Creole, 
+In this repository, we present the dataset, code and evaluation results of the work ~ Evaluating cultural awareness in LLMs for Haitian Creole, 
 a language spoken by millions but severely underrepresented in digital resources. 
 
 The notebook entity_filling give the complete pipeline to rebuild the results while using the entities file and the results of the prompt entity filling task.
